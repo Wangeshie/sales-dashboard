@@ -1,0 +1,11 @@
+Date,Region,Product,Units Sold,Unit Price,Revenue
+2024-01-01,North,Smartphone,30,699,20970
+2024-01-01,South,Laptop,15,999,14985
+2024-01-02,East,Tablet,20,399,7980
+2024-01-02,West,Smartwatch,25,199,4975
+2024-01-03,North,Tablet,18,399,7182
+2024-01-03,South,Smartphone,22,699,15378
+2024-01-04,East,Laptop,12,999,11988
+2024-01-04,West,Smartwatch,30,199,5970
+2024-01-05,North,Smartphone,28,699,19572
+2024-01-05,South,Tablet,24,399,9576
